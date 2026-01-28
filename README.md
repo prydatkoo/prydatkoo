@@ -1,23 +1,20 @@
 <div align="center">
 
-```
+<pre>
+███╗   ███╗ █████╗ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗
+████╗ ████║██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║
+██╔████╔██║███████║██████╔╝ ╚████╔╝ ███████║██╔██╗ ██║
+██║╚██╔╝██║██╔══██║██╔══██╗  ╚██╔╝  ██╔══██║██║╚██╗██║
+██║ ╚═╝ ██║██║  ██║██║  ██║   ██║   ██║  ██║██║ ╚████║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
 
+───────────────────────────────────────────────────────
 
-        ███╗   ███╗ █████╗ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗
-        ████╗ ████║██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║
-        ██╔████╔██║███████║██████╔╝ ╚████╔╝ ███████║██╔██╗ ██║
-        ██║╚██╔╝██║██╔══██║██╔══██╗  ╚██╔╝  ██╔══██║██║╚██╗██║
-        ██║ ╚═╝ ██║██║  ██║██║  ██║   ██║   ██║  ██║██║ ╚████║
-        ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
+WORKING STUDENT @ HIVEMIND  //  BERLIN, GERMANY
+SOLVING LEARNING WITH AI
 
-        ─────────────────────────────────────────────────────────
-
-             WORKING STUDENT @ HIVEMIND  //  BERLIN, GERMANY
-                   SOLVING LEARNING WITH AI
-
-        ─────────────────────────────────────────────────────────
-
-```
+───────────────────────────────────────────────────────
+</pre>
 
 <br>
 
@@ -60,11 +57,11 @@ const prydatkoo = {
     ],
 
     stack: {
-        ai:        ["Claude", "MCP", "LangChain", "OpenAI", "Langfuse"],
+        ai:        ["Claude", "MCP", "LangChain", "Langfuse"],
         languages: ["TypeScript", "Python", "Java"],
         frontend:  ["React Native", "Expo", "Next.js"],
         backend:   ["Hono", "Node.js", "PostgreSQL"],
-        infra:     ["Vercel", "Docker", "n8n", "Sentry"]
+        infra:     ["Railway", "EAS", "Vercel", "Docker", "Sentry", "PostHog"]
     },
 
     current: "Building AI-powered adaptive learning platform",
@@ -87,12 +84,12 @@ const prydatkoo = {
 
 <img src="https://skillicons.dev/icons?i=ts,python,java,react,nextjs,nodejs&theme=dark" />
 <br>
-<img src="https://skillicons.dev/icons?i=postgres,docker,vercel,git,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,docker,vercel,git,vscode,sentry&theme=dark" />
 
 <br><br>
 
 ```
-CLAUDE // MCP // LANGCHAIN // OPENAI // EXPO // HONO // N8N // LANGFUSE // POSTHOG // SENTRY
+CLAUDE // MCP // EXPO // EAS // RAILWAY // HONO // LANGFUSE // POSTHOG // SENTRY
 ```
 
 </div>
