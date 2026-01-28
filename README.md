@@ -107,17 +107,17 @@ CLAUDE // MCP // EXPO // EAS // RAILWAY // HONO // LANGFUSE // POSTHOG // SENTRY
 <div align="center">
 
 <a href="https://github.com/prydatkoo/pathfinder-java">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=prydatkoo&repo=pathfinder-java&bg_color=000000&border_color=333333&title_color=ffffff&icon_color=888888&text_color=aaaaaa"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=prydatkoo&repo=pathfinder-java&bg_color=000000&border_color=333333&title_color=ffffff&icon_color=888888&text_color=aaaaaa&description_lines_count=2"/>
 </a>
 <a href="https://github.com/prydatkoo/HausPetApp">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=prydatkoo&repo=HausPetApp&bg_color=000000&border_color=333333&title_color=ffffff&icon_color=888888&text_color=aaaaaa"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=prydatkoo&repo=HausPetApp&bg_color=000000&border_color=333333&title_color=ffffff&icon_color=888888&text_color=aaaaaa&description_lines_count=2"/>
 </a>
 
 <a href="https://github.com/prydatkoo/HausPet-landing">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=prydatkoo&repo=HausPet-landing&bg_color=000000&border_color=333333&title_color=ffffff&icon_color=888888&text_color=aaaaaa"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=prydatkoo&repo=HausPet-landing&bg_color=000000&border_color=333333&title_color=ffffff&icon_color=888888&text_color=aaaaaa&description_lines_count=2"/>
 </a>
 <a href="https://github.com/prydatkoo/sladent-website">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=prydatkoo&repo=sladent-website&bg_color=000000&border_color=333333&title_color=ffffff&icon_color=888888&text_color=aaaaaa"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=prydatkoo&repo=sladent-website&bg_color=000000&border_color=333333&title_color=ffffff&icon_color=888888&text_color=aaaaaa&description_lines_count=2"/>
 </a>
 
 </div>
