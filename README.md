@@ -1,108 +1,102 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header"/>
+```
+
+   ▄▄▄▄███▄▄▄▄      ▄████████    ▄████████ ▄██   ▄      ▄████████ ███▄▄▄▄
+ ▄██▀▀▀███▀▀▀██▄   ███    ███   ███    ███ ███   ██▄   ███    ███ ███▀▀▀██▄
+ ███   ███   ███   ███    ███   ███    ███ ███▄▄▄███   ███    ███ ███   ███
+ ███   ███   ███   ███    ███  ▄███▄▄▄▄██▀ ▀▀▀▀▀▀███   ███    ███ ███   ███
+ ███   ███   ███ ▀███████████ ▀▀███▀▀▀▀▀   ▄██   ███ ▀███████████ ███   ███
+ ███   ███   ███   ███    ███ ▀███████████ ███   ███   ███    ███ ███   ███
+ ███   ███   ███   ███    ███   ███    ███ ███   ███   ███    ███ ███   ███
+  ▀█   ███   █▀    ███    █▀    ███    ███  ▀█████▀    ███    █▀   ▀█   █▀
+                                ███    ███
+```
 
 <br>
 
-# maryan prydatko
-
-**working student @ [hivemind](https://hivemind.dev)** · solving learning with ai
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=working+student+%40+hivemind;solving+learning+with+ai;building+agentic+systems;claude+code+enthusiast)](https://git.io/typing-svg)
 
 <br>
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/maryan-prydatko)&nbsp;&nbsp;
-[![X](https://custom-icon-badges.demolab.com/badge/@prydatkoo-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prydatkoo)&nbsp;&nbsp;
-[![Email](https://custom-icon-badges.demolab.com/badge/email-D44638?style=for-the-badge&logo=mail&logoColor=white)](mailto:maryan.prydatko1@gmail.com)
+<a href="https://linkedin.com/in/maryan-prydatko">
+<img src="https://img.shields.io/badge/-maryan--prydatko-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://x.com/prydatkoo">
+<img src="https://img.shields.io/badge/-@prydatkoo-000?style=flat&logo=x&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:maryan.prydatko1@gmail.com">
+<img src="https://img.shields.io/badge/-email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### about
-
-```yaml
-name: Maryan Prydatko
-location: Berlin, Germany
-role: Working Student @ Hivemind
-education: CODE University of Applied Sciences
-focus: AI Agents & Learning Systems
-```
-
-</td>
-<td width="50%" valign="top">
-
-### current
-
 ```js
-const now = {
-  building: "AI-powered learning platform",
-  exploring: "MCP servers & agent orchestration",
-  learning: "Advanced LLM patterns",
-  vibing: "Claude Code daily driver"
+// ~ about me
+const maryan = {
+    location: "Berlin, Germany 🇩🇪",
+    role: "Working Student @ Hivemind",
+    education: "Software Engineering @ CODE University",
+    mission: "Solving learning with AI",
+
+    current: {
+        building: "AI-powered adaptive learning platform",
+        exploring: ["MCP servers", "agent orchestration", "LLM workflows"],
+        tools: "Claude Code daily driver"
+    }
 };
 ```
 
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
-
 <br>
 
 <div align="center">
 
-### tech
+## ⚡ stack
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=ts,python,react,nextjs&theme=dark" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,vercel,docker&theme=dark" height="50"/>
+**`ai & agents`**
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-5A45FF?style=for-the-badge&logo=dotenv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=D97757"/>
+<img src="https://img.shields.io/badge/MCP_Servers-5A45FF?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<br>
+**`languages`**
 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+**`frameworks & tools`**
+
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white"/>
+
+**`infrastructure`**
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Langfuse-0EA5E9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white"/>
+<img src="https://img.shields.io/badge/Langfuse-000?style=for-the-badge"/>
 
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
-
-<br>
-
-### projects
+---
 
 <br>
 
 <div align="center">
 
-<a href="https://github.com/prydatkoo/HausPetApp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prydatkoo&repo=HausPetApp&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6"/>
-</a>
-<a href="https://github.com/prydatkoo/self-learning-ai-agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prydatkoo&repo=self-learning-ai-agent&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6"/>
-</a>
+## 🔮 projects
 
 </div>
 
@@ -110,52 +104,53 @@ const now = {
 
 <div align="center">
 
-<a href="https://github.com/prydatkoo/pathfinder-java">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prydatkoo&repo=pathfinder-java&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6"/>
-</a>
-<a href="https://github.com/prydatkoo/sladent-website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prydatkoo&repo=sladent-website&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6"/>
-</a>
+| | |
+|:--:|:--:|
+| [![HausPet](https://github-readme-stats.vercel.app/api/pin/?username=prydatkoo&repo=HausPetApp&bg_color=0d1117&border_color=30363d&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9)](https://github.com/prydatkoo/HausPetApp) | [![AI Agent](https://github-readme-stats.vercel.app/api/pin/?username=prydatkoo&repo=self-learning-ai-agent&bg_color=0d1117&border_color=30363d&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9)](https://github.com/prydatkoo/self-learning-ai-agent) |
+| [![Pathfinder](https://github-readme-stats.vercel.app/api/pin/?username=prydatkoo&repo=pathfinder-java&bg_color=0d1117&border_color=30363d&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9)](https://github.com/prydatkoo/pathfinder-java) | [![Sladent](https://github-readme-stats.vercel.app/api/pin/?username=prydatkoo&repo=sladent-website&bg_color=0d1117&border_color=30363d&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9)](https://github.com/prydatkoo/sladent-website) |
 
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
+---
 
 <br>
 
 <div align="center">
 
-### stats
+## 📊 stats
 
 <br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prydatkoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&hide_title=true"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=prydatkoo&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=prydatkoo&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9&hide_title=true&hide_rank=true"/>
+&nbsp;&nbsp;
+<img height="160" src="https://streak-stats.demolab.com?user=prydatkoo&background=0d1117&border=30363d&stroke=30363d&ring=a855f7&fire=a855f7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b5cf6&sideLabels=8b5cf6&dates=6e7681"/>
 
 <br><br>
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=prydatkoo&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&area_color=bf91f3"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=prydatkoo&bg_color=0d1117&color=a855f7&line=8b5cf6&point=c9d1d9&area=true&area_color=a855f7&hide_border=true"/>
 
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
+---
 
 <br>
 
 <div align="center">
 
-**open for collaborations, hackathons & building cool stuff**
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   🚀  open for collaborations · hackathons · interesting problems  🚀    ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=prydatkoo&style=for-the-badge&color=1a1b27&label=visitors)
+![](https://komarev.com/ghpvc/?username=prydatkoo&style=for-the-badge&color=a855f7&label=profile+views)
 
 </div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=80&section=footer"/>
