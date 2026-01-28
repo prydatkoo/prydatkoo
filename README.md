@@ -10,7 +10,7 @@
 
 ───────────────────────────────────────────────────────
 
-WORKING STUDENT @ HIVEMIND  //  BERLIN, GERMANY
+WORKING STUDENT(SWE) @ HIVEMIND  // @ BERLIN, GERMANY
 SOLVING LEARNING WITH AI
 
 ───────────────────────────────────────────────────────
@@ -47,7 +47,7 @@ const prydatkoo = {
 
     role:      "Working Student @ Hivemind",
     mission:   "Solving Learning with AI",
-    education: "B.Sc. Software Engineering @ CODE University",
+    education: "B.Sc. Software Engineering @ CODE University of Applied Sciences",
 
     focus: [
         "AI Agents",
