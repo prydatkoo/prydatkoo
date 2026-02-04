@@ -23,7 +23,7 @@ SOLVING LEARNING WITH AI
 <br>
 
 <a href="https://linkedin.com/in/maryan-prydatko"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/prydatkoo"><img src="https://img.shields.io/badge/TWITTER-000000?style=flat-square&logo=x&logoColor=white"/></a>
+<a href="https://x.com/giantaxe177"><img src="https://img.shields.io/badge/TWITTER-000000?style=flat-square&logo=x&logoColor=white"/></a>
 <a href="mailto:maryan.prydatko1@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 </div>
