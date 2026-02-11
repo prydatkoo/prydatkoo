@@ -65,7 +65,7 @@ const prydatkoo = {
     },
 
     current: "Building AI-powered adaptive learning platform",
-    weapon:  "Claude Code"
+    weapon:  "Claude Code + Codex"
 
 };
 ```
